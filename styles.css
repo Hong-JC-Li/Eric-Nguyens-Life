@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+img {
+    width: 200px;
+    border: dashed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+
+}
+.memer{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: green;
+}
+.destroyer{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: blue;
+    text-align: center;
+    opacity:0.6;
+}
+.chairer{
+    font-family: 'Raleway', sans-serif;
+    color:purple;
+}
+li{
+    color:yellow;
+    font-family: 'Oswald', sans-serif;
+}
+.panter{
+    color:red;
+    text-align:center;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZ_nPkreFQKthvkuPgfRKcmFjPTfG5v7Cq9Xk9wn1SSLEGnwkzA");
+}
+h1{
+    color:pink;
+}
